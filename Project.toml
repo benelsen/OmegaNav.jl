@@ -1,0 +1,6 @@
+authors = ["Ben Elsen <mail@benelsen.com>"]
+name = "OmegaNav"
+uuid = "a802818e-b118-11e8-3db6-97e756019129"
+version = "0.1.0"
+
+[deps]
